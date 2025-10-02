@@ -1,6 +1,7 @@
+
 """
 CryptoBuddy: A simple rule-based crypto advisor chatbot
-Author: Silvia (or your name)
+Author: Silvia 
 Run: python cryptobuddy.py
 """
 
@@ -8,6 +9,7 @@ Run: python cryptobuddy.py
 # Predefined crypto dataset
 # --------------------------
 crypto_db = {
+
     "Bitcoin": {
         "symbol": "BTC",
         "price_trend": "rising",
