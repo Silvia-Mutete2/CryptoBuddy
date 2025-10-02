@@ -1,6 +1,6 @@
 """
 CryptoBuddy: A simple rule-based crypto advisor chatbot
-Author: Silvia 
+Author: Silvia (or your name)
 Run: python cryptobuddy.py
 """
 
